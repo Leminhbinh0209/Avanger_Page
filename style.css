@@ -1,0 +1,87 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: antiquewhite;
+    padding: 2em;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolStuffWrapper {
+    margin: 20px 0px;
+}
+
+button.coolStuffBtn {
+    color: cornsilk;
+    background-color: brown;
+    display: block;
+    margin: auto;
+}
+
+button.coolStuffBtn {
+    margin: auto;
+    display: block;
+}
+h5.coolModaltitle {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+img.signin-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+
+form.modalFormWrapper {
+    padding: 10px 40px;
+}
+
+.imgCenter {
+    padding: 0 1rem 1rem;
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+button.btnCenter {
+    color: cornsilk;
+    background-color: brown;
+    border-color: crimson;
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+
+img.img-footer {
+    padding: 2rem 0rem;
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+.fa-facebook-square {
+    color: #ffffff;
+}
+
+.fa-google-plus-square {
+    color: #ffffff;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.socialWrapper{
+    margin: auto;
+}
